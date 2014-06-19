@@ -2,7 +2,7 @@ name              "monit_configs-tlq"
 maintainer        "Iwan Buetti"
 maintainer_email  "iwan.buetti+999@gmail.com"
 description       "Monit configs for server components"
-version           "0.0.5"
+version           "0.0.6"
 
 # recipe "monit_configs-tlq::memcached", "Monit config for memcached"
 # recipe "monit_configs-tlq::mongo", "Monit config for mongodb"
